@@ -37,7 +37,7 @@ class Pessoa{
             }
             else if(($imc > 30) && ($imc < 39.9))
             {
-                $faixa = 'Você está com bbesidade nivel 1';
+                $faixa = 'Você está com obesidade nivel 1';
             }
             else if(($imc > 40))
             {
